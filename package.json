@@ -1,0 +1,16 @@
+{
+  "name": "food-cart",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "sass": "sass src/scss/main.scss src/css/main.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "sass": "^1.86.0"
+  }
+}
